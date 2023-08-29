@@ -3,7 +3,7 @@
 
 This repository is our implementation of 
 
-[Hongyuan Zhang and Xuelong Li, "Discretize Relaxed Solution of Spectral Clustering via A Non-Heuristic Algorithm," *Discretize Relaxed Solution of Spectral Clustering via A Non-Heuristic Algorithm*, DOI: 10.1109/TNNLS.2023.3309871, 2023](https://doi.org/10.1109/TNNLS.2023.3309871).
+[Hongyuan Zhang and Xuelong Li, "Discretize Relaxed Solution of Spectral Clustering via A Non-Heuristic Algorithm," *IEEE Transactions on Neural Networks and Learning Systems*, DOI: 10.1109/TNNLS.2023.3309871, 2023](https://doi.org/10.1109/TNNLS.2023.3309871).
 
 
 
